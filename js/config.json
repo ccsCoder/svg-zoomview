@@ -1,0 +1,116 @@
+{
+    "defaults": {
+        "stroke-width":"2px",
+        "circle-radius":"50px",
+        "fill-color":"green",
+        "text-color":"white"
+    },
+    "items": [
+        {
+            "id":"box1",
+            "display":"Item1",
+            "shape":"circle",
+            "chirlen": [
+                {
+                    "id": "box1",
+                    "display": "Item1",
+                    "shape": "rectangle"
+                },{
+                    "id": "box1",
+                    "display": "Item1",
+                    "shape": "circle"
+                    
+                },{
+                    "id": "box1",
+                    "display": "Item1",
+                    "shape": "rectangle"
+                }
+
+            ]
+        },{
+            "id": "box1",
+            "display": "Item1",
+            "shape": "rectangle",
+            "chirlen": [
+                {
+                    "id": "box1",
+                    "display": "Item1",
+                    "shape": "rectangle"
+                },
+                {
+                    "id": "box1",
+                    "display": "Item1",
+                    "shape": "rectangle"
+                },
+                {
+                    "id": "box1",
+                    "display": "Item1",
+                    "shape": "rectangle"
+                }
+            ]
+        },{
+            "id": "box1",
+            "display": "Item1",
+            "shape": "circle",
+            "chirlen": [
+                {
+                    "id": "box1",
+                    "display": "Item1",
+                    "shape": "circle"
+                },
+                {
+                    "id": "box1",
+                    "display": "Item1",
+                    "shape": "circle"
+                },
+                {
+                    "id": "box1",
+                    "display": "Item1",
+                    "shape": "circle"
+                }
+            ]
+        },{
+            "id": "box1",
+            "display": "Item1",
+            "shape": "rectangle",
+            "chirlen": [
+                {
+                    "id": "box1",
+                    "display": "Item1",
+                    "shape": "rectangle"
+                },
+                {
+                    "id": "box1",
+                    "display": "Item1",
+                    "shape": "circle"
+                },
+                {
+                    "id": "box1",
+                    "display": "Item1",
+                    "shape": "circle"
+                }
+            ]
+        },{
+            "id": "box1",
+            "display": "Item1",
+            "shape": "circle",
+            "chirlen": [
+                {
+                    "id": "box1",
+                    "display": "Item1",
+                    "shape": "circle"
+                },
+                {
+                    "id": "box1",
+                    "display": "Item1",
+                    "shape": "circle"
+                },
+                {
+                    "id": "box1",
+                    "display": "Item1",
+                    "shape": "circle"
+                }
+            ]
+        }
+    ]
+}
