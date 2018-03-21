@@ -2,8 +2,10 @@
     "defaults": {
         "stroke-width":"2px",
         "circle-radius":"50px",
+        "rect-width": "100px",
         "fill-color":"green",
-        "text-color":"white"
+        "text-color":"white",
+        "offset":"20px"
     },
     "items": [
         {
@@ -14,7 +16,7 @@
                 {
                     "id": "box1",
                     "display": "Item1",
-                    "shape": "rectangle"
+                    "shape": "rect"
                 },{
                     "id": "box1",
                     "display": "Item1",
@@ -23,29 +25,29 @@
                 },{
                     "id": "box1",
                     "display": "Item1",
-                    "shape": "rectangle"
+                    "shape": "rect"
                 }
 
             ]
         },{
             "id": "box1",
             "display": "Item1",
-            "shape": "rectangle",
+            "shape": "rect",
             "chirlen": [
                 {
                     "id": "box1",
                     "display": "Item1",
-                    "shape": "rectangle"
+                    "shape": "rect"
                 },
                 {
                     "id": "box1",
                     "display": "Item1",
-                    "shape": "rectangle"
+                    "shape": "rect"
                 },
                 {
                     "id": "box1",
                     "display": "Item1",
-                    "shape": "rectangle"
+                    "shape": "rect"
                 }
             ]
         },{
@@ -72,12 +74,12 @@
         },{
             "id": "box1",
             "display": "Item1",
-            "shape": "rectangle",
+            "shape": "rect",
             "chirlen": [
                 {
                     "id": "box1",
                     "display": "Item1",
-                    "shape": "rectangle"
+                    "shape": "rect"
                 },
                 {
                     "id": "box1",
